@@ -10,6 +10,8 @@ Write C callable TMS320C64x Assembly program for the following C code and Optimi
 NUMBER OF CLOCK CYCLES FOR THE ABOVE CODE : 81
 
 ![](/images/Picture1.jpg)
+
+
 ![](/images/Picture1.jpg)
 
 -In the c callable assembly program we are passing parameters to assembly code. 
