@@ -10,7 +10,7 @@ Number of clock cycles taken by the above code : 81
 ![](/images/Picture1.jpg)
 
 
-![](/images/Picture1.jpg)
+![](/images/Picture2.jpg)
 
 - In the c callable assembly program parameters are passed to assembly code. 
 
