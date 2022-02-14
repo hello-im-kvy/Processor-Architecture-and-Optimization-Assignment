@@ -5,7 +5,7 @@ Processor Architecture and Optimization: Assignment
 
 **SOFTWARE/TOOLS NEEDED : CCS v5.2.1**
 
-NUMBER OF CLOCK CYCLES FOR THE ABOVE CODE : 81
+Number of clock cycles taken by the above code : 81
 
 ![](/images/Picture1.jpg)
 
