@@ -20,9 +20,9 @@ Number of clock cycles taken by the above code : 81
 
 - 16 lddw and 16 stdw.
 
-- After unrolling the loop 64 values in 1 iterations is stored. 
+- After unrolling the loop 64 values is stored in single iteration. 
 
-- So it's taking 2 iterations to store 128 values. 
+- So total iterations = 2; to store 128 values. 
 
 - In total it's taking total of 81 clock cycles for storing 128 values in 2 iterations
 
